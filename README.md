@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](images/screenshot.png)
+![screenshot](images/screenshot.png)
 
 ### Links
 
@@ -26,15 +26,17 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## My process
 
 ### Built with
+
 - Flexbox
 - Neovim
 - Tmux
 
 ### What I learned
+
 - How to add favicon
 - How to build exact copy for design
 - how to build a project in [Frontend Mentor]("https://www.frontendmentor.io/")
 
 ## Author
-- Frontend Mentor - [@MayyarZidane](https://www.frontendmentor.io/profile/MayyarZidane)
 
+- Frontend Mentor - [@MayyarZidane](https://www.frontendmentor.io/profile/MayyarZidane)
