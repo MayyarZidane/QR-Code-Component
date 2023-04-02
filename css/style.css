@@ -16,31 +16,36 @@ body {
   height: 100vh;
 }
 
-.parent {
+main {
   padding: 20px;
   border-radius: 10px;
   background-color: var(--white);
 }
-.parent img {
+
+main img {
   width: 300px;
   border-radius: inherit;
 }
 
-.parent .text {
+main .text {
   width: 300px;
   margin: auto;
   text-align: center;
 }
 
-.parent p {
+main .text h1 {
+  font-size: 25px;
+}
+
+main .text p {
   margin-top: 10px;
   padding: 0px 25px;
   font-size: 15px;
-  color: var(--dark-blue);
+  color: var(--grayish-blue);
   line-height: 1.5;
 }
 
-.attribution {
+main .attribution {
   margin-top: 20px;
   font-size: 12px;
 }
